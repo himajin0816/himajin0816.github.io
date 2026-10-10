@@ -1,0 +1,20 @@
+[
+  {
+    "name": "hmzn",
+    "role": "Lead Developer",
+    "avatar": "https://himajin0816.github.io/rtss-assets/creators/himajin_zip.jpg",
+    "socials": [
+      { "name": "Twitter", "url": "https://twitter.com/himajin_zip" },
+      { "name": "GitHub", "url": "https://github.com/himajin0816" }
+    ]
+  },
+  {
+    "name": "hmzn",
+    "role": "UI/UX Designer",
+    "avatar": "https://himajin0816.github.io/rtss-assets/creators/himajin_psd.jpg",
+    "socials": [
+      { "name": "Twitter", "url": "https://twitter.com/himajin_psd" },
+      { "name": "digvault", "url": "https://digvault.dev/user/hmzn" }
+    ]
+  }
+]
